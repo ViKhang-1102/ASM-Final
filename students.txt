@@ -1,0 +1,5 @@
+ID,Name,Course,Gender,Class,Major,Subject1,Score1,Subject2,Score2,Subject3,Score3,Average,Grade
+01,Huynh Vi Khang,K7,Male,SE07201,IT,HTML,8.00,CSS,7.50,Math,9.00,8.00,Merit
+02,Nguyen Hoang Nam,K7,Male,SE07201,Biz,Marketing,9.00,Sale,10.00,,0.00,9.33,Distinction
+03,Tran Minh Thanh,K6,Male,SE07201,IT,HTML,10.00,CSS,10.00,Math,10.00,10.00,Distinction
+04,Tran Ngo Thai Toan,K6,Male,SE07201,Biz,Marketing,1.00,Sale,2.20,,0.00,1.40,Fail
